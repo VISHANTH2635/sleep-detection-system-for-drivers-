@@ -77,7 +77,7 @@ Model: FaceMesh from Google MediaPipe
 
 👨‍💻 Author
 
-Sesha
+Vishanth R
 B.Tech CSE, SRM University – Kattankulathur
 Passionate about AI, Computer Vision, and Automation.
 
